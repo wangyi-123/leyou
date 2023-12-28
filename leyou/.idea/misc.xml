@@ -9,6 +9,7 @@
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/leyou-interface/pom.xml" />
         <option value="$PROJECT_DIR$/leyou-item-interface/pom.xml" />
       </set>
     </option>
