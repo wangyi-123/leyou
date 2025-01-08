@@ -10,6 +10,7 @@ public class Brand {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
+
     private String name;// 品牌名称
     private String image;// 品牌图片
     private Character letter;
